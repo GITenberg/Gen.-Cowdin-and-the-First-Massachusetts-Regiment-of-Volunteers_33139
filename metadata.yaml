@@ -1,0 +1,32 @@
+_repo: Gen.-Cowdin-and-the-First-Massachusetts-Regiment-of-Volunteers_33139
+_version: 0.1.0
+alternative_title: General Cowdin and the First Massachusetts Regiment of Volunteers
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cowdin, Robert
+    birthdate: 1805
+    deathdate: 1874
+    gutenberg_agent_id: '36229'
+    url: http://www.gutenberg.org/2009/agents/36229
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Cowdin
+description: ''
+gutenberg_issued: '2010-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Cowdin, Robert, 1805-1874'
+- !lcc 'E456'
+- !lcsh 'Massachusetts -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 1st (1861-1864)'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+title: Gen. Cowdin and the First Massachusetts Regiment of Volunteers
+url: http://www.gutenberg.org/ebooks/33139
